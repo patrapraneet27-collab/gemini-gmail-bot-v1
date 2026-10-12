@@ -14,6 +14,6 @@ make sure you have:
 if you use git, just open your terminal and run:
 
 ```bash
-git clone https://github.com/patrapraneet27-collab/gemini-gmail-bot-v1.git
+git clone https://github.com/patrapraneet27-collab/gmail-bot.git
 cd gemini-gmail-bot-v1
 run_responder.bat
