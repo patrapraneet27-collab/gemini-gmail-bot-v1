@@ -1,5 +1,3 @@
-# gemini-gmail-bot-v1
-
 # email auto-responder 🤖
 ~ made by praneet
 
@@ -16,6 +14,6 @@ make sure you have:
 if you use git, just open your terminal and run:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/patrapraneet27-collab/gemini-gmail-bot-v1.git
+cd gemini-gmail-bot-v1
 run_responder.bat
